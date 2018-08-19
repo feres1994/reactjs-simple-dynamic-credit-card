@@ -1,0 +1,52 @@
+.my-card {
+  max-width: 450px;
+  background-color: #1a1a50;
+  border-radius: 15px;
+}
+.credit-card-title {
+  display: flex;
+  flex-direction: row-reverse;
+  color: white;
+  font-family: sans-serif;
+  margin-right: 15px;
+}
+.chip {
+  width: 60px;
+  border-radius: 11px;
+  margin-left: 20px;
+  margin-top: -20px;
+}
+.code {
+  color: white;
+  margin-left: 50px;
+  background-color: rgba(255, 255, 077, 0.1);
+  margin-right: -50px;
+}
+.logo {
+  height: 100px;
+}
+.name-valid-thru {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  font-family: sans-serif;
+  margin: 10px;
+}
+.valid-logo {
+  display: flex;
+  margin-bottom: 10px;
+}
+.name {
+  display: flex;
+  flex-wrap: wrap;
+}
+.my-card-2 {
+  max-width: 450px;
+  background-color: #1a1a50;
+  border-radius: 15px;
+  height: 280px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
